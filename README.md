@@ -1,6 +1,6 @@
 # Agent Evidence MCP
 
-Private, generated MCP server distribution from [Sercolabs/agent_evidence](https://github.com/Sercolabs/agent_evidence). Make changes in the source repository. Its sync workflow replaces this snapshot after source updates. This repository contains no source repository history, CLI, agent skills, or project planning documents.
+agent-evidence verifies files, command exit codes, web pages, and HTTP responses. It exports JSON reports and checks stored evidence for changes. create-run remains a CLI stub.
 
 ## Install
 
