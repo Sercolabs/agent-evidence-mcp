@@ -1,0 +1,33 @@
+{
+  "format": "agent-evidence-mcp-export-v1",
+  "files": [
+    ".gitignore",
+    "README.md",
+    "bin/agent-evidence-mcp.mjs",
+    "package-lock.json",
+    "package.json",
+    "scripts/verify.mjs",
+    "src/browser/playwright-page.ts",
+    "src/domain/report.ts",
+    "src/domain/run.ts",
+    "src/domain/types.ts",
+    "src/engine/aggregate.ts",
+    "src/engine/check-types.ts",
+    "src/engine/checks/api-response.ts",
+    "src/engine/checks/command-exit.ts",
+    "src/engine/checks/element.ts",
+    "src/engine/checks/file-contains.ts",
+    "src/engine/checks/file-exists.ts",
+    "src/engine/checks/text.ts",
+    "src/engine/checks/url.ts",
+    "src/engine/parse-check.ts",
+    "src/engine/verify-runner.ts",
+    "src/mcp/server.ts",
+    "src/mcp/tools.ts",
+    "src/storage/fs-store.ts",
+    "src/storage/hash.ts",
+    "src/storage/manifest.ts",
+    "src/storage/paths.ts",
+    "tsconfig.json"
+  ]
+}
